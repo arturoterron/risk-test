@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ```sh
 # Ejecutar el script principal
-python main.py
+python xgboost-test.py
 ```
 
 ## Licencia
