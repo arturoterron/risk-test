@@ -18,8 +18,12 @@ pip install -r requirements.txt
 ## Uso
 
 ```sh
-# Ejecutar el script principal
+# Ejecutar el script para ver un test de regresion lineal y xgboost
 python xgboost-test.py
+
+# Ejecutar el script para ver un test de análisis de supervivencia
+python analisis-supervivencia.py
+
 ```
 
 ## Licencia
